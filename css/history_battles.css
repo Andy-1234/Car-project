@@ -1,0 +1,20 @@
+/*  history  */
+
+@media only screen and (min-width:200px) and (max-width:500px){
+    body{
+        background: black;
+    }
+}
+
+@media only screen and (min-width:501px) and (max-width:719px){}
+
+@media only screen and (min-width:720px) and (max-width:2160px){} 
+
+
+/*  battles  */
+
+@media only screen and (min-width:200px) and (max-width:500px){}
+
+@media only screen and (min-width:501px) and (max-width:719px){}
+
+@media only screen and (min-width:720px) and (max-width:2160px){} 
